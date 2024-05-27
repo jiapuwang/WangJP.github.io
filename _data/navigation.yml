@@ -1,10 +1,7 @@
 # main links links
 main:
-  - title: "Biography"
-    url: /publications/
-
   - title: "Publications"
-    url: /talks/    
+    url: /publications/
 
   - title: "Services"
     url: /teaching/    

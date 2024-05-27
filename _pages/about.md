@@ -13,7 +13,25 @@ My research interests mainly focus on the areas of artificial intelligence and d
 
 <span style="color:red">_News_</span>
 ======
-*<span style="color:red">[Paper:]</span> Our paper ``[MADE: Multicurvature Adaptive Embedding for Temporal Knowledge Graph Completion](https://ieeexplore.ieee.org/abstract/document/10535899)'' has been accepted by TCYB.(May 2024)
+  *<span style="color:red">[Paper:]</span> Our paper ``[Large Language Models-guided Dynamic Adaptation for Temporal Knowledge Graph Reasoning](https://arxiv.org/abs/2405.14170)'' is now published.(May 2024)
+
+  *<span style="color:red">[Paper:]</span> Our paper ``[MADE: Multicurvature Adaptive Embedding for Temporal Knowledge Graph Completion](https://ieeexplore.ieee.org/abstract/document/10535899)'' has been accepted by TCYB.(May 2024)
+  
+  *<span style="color:red">[Paper:]</span> Our paper ``[Multi-modal long document classification based on Hierarchical Prompt and Multi-modal Transformer](https://www.sciencedirect.com/science/article/pii/S0893608024002466)'' has been accepted by Neural Network.(April 2024)
+  
+  *<span style="color:brown">[Award:]</span> Our paper ``[IME: Integrating Multi-curvature Shared and Specific Embedding for Temporal Knowledge Graph Completion](https://dl.acm.org/doi/abs/10.1145/3589334.3645361)'' has been recognized as an Oral paper.
+
+  *<span style="color:red">[Paper:]</span> Our paper ``Common-Memory Bridged Cross-Modal Adaptive Graph Embedding for Image-Text Retrieva'' has been accepted by ICME 2024''.(February 2024)
+
+  *<span style="color:red">[Paper:]</span> Our paper ``[IME: Integrating Multi-curvature Shared and Specific Embedding for Temporal Knowledge Graph Completion](https://dl.acm.org/doi/abs/10.1145/3589334.3645361)'' has been accepted by WWW 2024''.(February 2024)
+
+  *<span style="color:red">[Paper:]</span> Our survey paper ``[Unifying large language models and knowledge graphs: A roadmap](https://ieeexplore.ieee.org/abstract/document/10387715)'' has been accepted by TKDE''.(February 2024)
+
+  *<span style="color:red">[Paper:]</span> Our paper ``[Multi-Level Interaction Based Knowledge Graph Completion](https://ieeexplore.ieee.org/abstract/document/10313042)'' has been accepted by TASLP''.(December 2023)
+
+  *<span style="color:red">[Paper:]</span> Our paper ``[QDN: A Quadruplet Distributor Network for Temporal Knowledge Graph Completion](https://ieeexplore.ieee.org/document/10132432)'' has been accepted by TNNLS''.(May 2023)
+
+  *<span style="color:red">[Paper:]</span> Our paper ``[TDN: Triplet Distributor Network for Knowledge Graph Completion](https://ieeexplore.ieee.org/abstract/document/10115028)'' has been accepted by TKDE''.(May 2023)
 
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 

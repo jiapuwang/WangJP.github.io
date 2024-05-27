@@ -11,7 +11,7 @@ Hello! I am Jiapu Wang (王家普), a PhD student of computer science and and te
 
 My research interests mainly focus on the areas of artificial intelligence and data mining, especially for the knowledge graph, large language model, and graph neural network.
 
-A data-driven personal website
+<span style="color:red">_News_</span>
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 

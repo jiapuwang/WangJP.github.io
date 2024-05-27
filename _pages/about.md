@@ -21,6 +21,8 @@ My research interests mainly focus on the areas of artificial intelligence and d
   
   *<span style="color:brown">[Award:]</span> Our paper ``[IME: Integrating Multi-curvature Shared and Specific Embedding for Temporal Knowledge Graph Completion](https://dl.acm.org/doi/abs/10.1145/3589334.3645361)'' has been recognized as an Oral paper.
 
+  *<span style="color:red">[Paper:]</span> Our patent ``A Knowledge Graph Completion Method Based on Multi-Semantic Learning'' has been authorized''.(March 2024)
+
   *<span style="color:red">[Paper:]</span> Our paper ``Common-Memory Bridged Cross-Modal Adaptive Graph Embedding for Image-Text Retrieva'' has been accepted by ICME 2024''.(February 2024)
 
   *<span style="color:red">[Paper:]</span> Our paper ``[IME: Integrating Multi-curvature Shared and Specific Embedding for Temporal Knowledge Graph Completion](https://dl.acm.org/doi/abs/10.1145/3589334.3645361)'' has been accepted by WWW 2024''.(February 2024)
@@ -28,6 +30,8 @@ My research interests mainly focus on the areas of artificial intelligence and d
   *<span style="color:red">[Paper:]</span> Our survey paper ``[Unifying large language models and knowledge graphs: A roadmap](https://ieeexplore.ieee.org/abstract/document/10387715)'' has been accepted by TKDE''.(February 2024)
 
   *<span style="color:red">[Paper:]</span> Our paper ``[Multi-Level Interaction Based Knowledge Graph Completion](https://ieeexplore.ieee.org/abstract/document/10313042)'' has been accepted by TASLP''.(December 2023)
+
+  *<span style="color:red">[Paper:]</span> Our paper ``[A survey on temporal knowledge graph completion: Taxonomy, progress, and prospects](https://arxiv.org/abs/2308.02457)'' is now published''.(September 2023)
 
   *<span style="color:red">[Paper:]</span> Our paper ``[QDN: A Quadruplet Distributor Network for Temporal Knowledge Graph Completion](https://ieeexplore.ieee.org/document/10132432)'' has been accepted by TNNLS''.(May 2023)
 

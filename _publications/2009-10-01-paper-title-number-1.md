@@ -1,13 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "IME: Integrating Multi-curvature Shared and Specific Embedding for Temporal Knowledge Graph Completion"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+excerpt: 'Temporal Knowledge Graphs (TKGs) incorporate a temporal dimension, allowing for a precise capture of the evolution of knowledge and reflecting the dynamic nature of the real world. Typically, TKGs contain complex geometric structures, with various geometric structures interwoven. However, existing Temporal Knowledge Graph Completion (TKGC) methods either model TKGs in a single space or neglect the heterogeneity of different curvature spaces, thus constraining their capacity to capture these intricate geometric structures. In this paper, we propose a novel Integrating Multi-curvature shared and specific Embedding (IME) model for TKGC tasks. Concretely, IME models TKGs into multi-curvature spaces, including hyperspherical, hyperbolic, and Euclidean spaces. Subsequently, IME incorporates two key properties, namely space-shared property and space-specific property. The space-shared property facilitates the learning of commonalities across different curvature spaces and alleviates the spatial gap caused by the heterogeneous nature of multi-curvature spaces, while the space-specific property captures characteristic features. Meanwhile, IME proposes an Adjustable Multi-curvature Pooling (AMP) approach to effectively retain important information. Furthermore, IME innovatively designs similarity, difference, and structure loss functions to attain the stated objective. Experimental results clearly demonstrate the superior performance of IME over existing state-of-the-art TKGC models.'
+date: 2024-5-18
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'https://dl.acm.org/doi/abs/10.1145/3589334.3645361'
+citation: 'Jiapu Wang, Boyue Wang, Junbin Gao, Shirui Pan, Baocai Yin, Wen Gao. IME: Integrating Multi-curvature Shared and Specific Embedding for Temporal Knowledge Graph Completion[C]//Proceedings of the ACM on Web Conference 2024. 2024: 1954-1962.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

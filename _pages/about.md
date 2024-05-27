@@ -35,14 +35,11 @@ My research interests mainly focus on the areas of artificial intelligence and d
 
   *<span style="color:red">[Paper:]</span> Our paper ``[Multi-concept representation learning for knowledge graph completion](https://dl.acm.org/doi/full/10.1145/3533017)'' has been accepted by TKDD''.(February 2023)
 
-Getting started
+__Services__
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+__Reviewer__
+
+  *<span style="color:red">[Paper:]</span> Our paper ``[IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036)'' (IF:19.11)
 
 Site-wide configuration
 ------

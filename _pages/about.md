@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 Hello! I am Jiapu Wang (王家普), a PhD student of computer science and and technology at Beijing University of Technology advised by [Prof. Wen Gao](https://idm.pku.edu.cn/info/1017/1041.htm), and [Prof. Baocai Yin](), and Griffith University advised by [Prof. Shirui Pan](https://shiruipan.github.io). 
+
 My research interests mainly focus on the areas of artificial intelligence and data mining, especially for the knowledge graph, large language model, and graph neural network.
 
 A data-driven personal website

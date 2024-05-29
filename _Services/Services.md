@@ -1,8 +1,15 @@
-{\rtf1\ansi\ansicpg936\cocoartf2639
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+__Services__
+======
+__Reviewer__
 
-\f0\fs24 \cf0 fff}
+  *[IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036) (TCYB, IF:19.11)
+  
+  *[IEEE Transactions on Knowledge and Data Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69) (TKDE, IF: 9.235)
+  
+  *[IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) (TNNLS, IF: 14.255)
+  
+  *[IEEE/ACM Transactions on Audio, Speech, and Language Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655) (TASLP, IF: 5.4)
+  
+  *[ACM Transactions on Knowledge Discovery from Data](https://dl.acm.org/journal/tkdd) (TKDD, IF: 4.711)
+  
+  *[Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing) (IF: 6)

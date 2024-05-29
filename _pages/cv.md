@@ -14,22 +14,7 @@ Education
 * Ph.D in Faculty of Information Technology, Beijing University of Technology, 2021--now
 * M.S. in Faculty of Information Technology, Beijing University of Technology, 2018--2021
 * B.S. in Heibei University of Architecture, 2014--2018
-  
-%Skills
-%======
-%* Skill 1
-%* Skill 2
-  %* Sub-skill 2.1
- %* Sub-skill 2.2
-  %* Sub-skill 2.3
-%* Skill 3
 
-%Publications
-%======
-%permalink: /Publication/
-  
-
-  
 Services
 ======
 __Reviewer__

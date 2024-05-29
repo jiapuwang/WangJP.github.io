@@ -10,7 +10,6 @@ author_profile: true
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
-__Services__
 ======
 __Reviewer__
 
@@ -27,3 +26,8 @@ __Reviewer__
   *[ACM Transactions on Knowledge Discovery from Data](https://dl.acm.org/journal/tkdd) (TKDD, IF: 4.711)
   
   *[Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing) (IF: 6)
+
+======
+__Attending__
+
+From May 12 to 17, 2024, I attended __The Web Conference 2024 (WWW 2024, Singapore)__ and delivered an oral presentation titled "__IME: Integrating Multi-curvature Shared and Specific Embedding for Temporal Knowledge Graph Completion__."

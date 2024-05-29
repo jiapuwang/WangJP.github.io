@@ -11,26 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Ph.D in Faculty of Information Technology, Beijing University of Technology, 2021--now
+* M.S. in Faculty of Information Technology, Beijing University of Technology, 2018--2021
+* B.S. in Heibei University of Architecture, 2014--2018
   
 Skills
 ======
@@ -43,22 +26,24 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+permalink: /Publication/
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+
   
-Teaching
+Services
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+__Reviewer__
+
+  *[The 38th Annual Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2024) (Neurips, CCF-A)
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  *[IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036) (TCYB, IF:19.11)
+  
+  *[IEEE Transactions on Knowledge and Data Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69) (TKDE, IF: 9.235)
+  
+  *[IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) (TNNLS, IF: 14.255)
+  
+  *[IEEE/ACM Transactions on Audio, Speech, and Language Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655) (TASLP, IF: 5.4)
+  
+  *[ACM Transactions on Knowledge Discovery from Data](https://dl.acm.org/journal/tkdd) (TKDD, IF: 4.711)
+  
+  *[Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing) (IF: 6)

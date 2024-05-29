@@ -13,7 +13,7 @@ My research interests mainly focus on the areas of artificial intelligence and d
 
 <span style="color:red">_News_</span>
 ======
-  **<span style="color:blue">[Congratulation:]</span> I am honored to be selected as a reviewer for [NeurIPS 2024](https://neurips.cc/Conferences/2024). This opportunity not only reflects my expertise and academic contributions in the fields of data mining, large language models, and knowledge graph reasoning, but also allows me to collaborate with leading scholars and researchers to review and evaluate cutting-edge research. (May 2024)
+  **<span style="color:purple">[Congratulation:]</span> I will serve as a reviewer for [NeurIPS 2024](https://neurips.cc/Conferences/2024). This opportunity not only reflects my expertise and academic contributions in the fields of data mining, large language models, and knowledge graph reasoning, but also allows me to collaborate with leading scholars and researchers to review and evaluate cutting-edge research. (May 2024)
   
   *<span style="color:red">[Paper:]</span> Our paper ``[Large Language Models-guided Dynamic Adaptation for Temporal Knowledge Graph Reasoning](https://arxiv.org/abs/2405.14170)'' is now published.(May 2024)
 
@@ -21,7 +21,7 @@ My research interests mainly focus on the areas of artificial intelligence and d
   
   *<span style="color:red">[Paper:]</span> Our paper ``[Multi-modal long document classification based on Hierarchical Prompt and Multi-modal Transformer](https://www.sciencedirect.com/science/article/pii/S0893608024002466)'' has been accepted by Neural Network.(April 2024)
   
-  **<span style="color:brown">[Congratulation:]</span> Our paper ``[IME: Integrating Multi-curvature Shared and Specific Embedding for Temporal Knowledge Graph Completion](https://dl.acm.org/doi/abs/10.1145/3589334.3645361)'' has been recognized as an Oral paper.
+  **<span style="color:purple">[Congratulation:]</span> Our paper ``[IME: Integrating Multi-curvature Shared and Specific Embedding for Temporal Knowledge Graph Completion](https://dl.acm.org/doi/abs/10.1145/3589334.3645361)'' has been recognized as an Oral paper.
 
   *<span style="color:red">[Paper:]</span> Our patent ``A Knowledge Graph Completion Method Based on Multi-Semantic Learning'' has been authorized''.(March 2024)
 
@@ -34,6 +34,8 @@ My research interests mainly focus on the areas of artificial intelligence and d
   *<span style="color:red">[Paper:]</span> Our paper ``[Multi-Level Interaction Based Knowledge Graph Completion](https://ieeexplore.ieee.org/abstract/document/10313042)'' has been accepted by TASLP''.(December 2023)
 
   *<span style="color:red">[Paper:]</span> Our paper ``[A survey on temporal knowledge graph completion: Taxonomy, progress, and prospects](https://arxiv.org/abs/2308.02457)'' is now published''.(September 2023)
+
+  **<span style="color:purple">[Congratulation:]</span> I will serve as a reviewer for [IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036). (August 2023)
 
   *<span style="color:red">[Paper:]</span> Our paper ``[QDN: A Quadruplet Distributor Network for Temporal Knowledge Graph Completion](https://ieeexplore.ieee.org/document/10132432)'' has been accepted by TNNLS''.(May 2023)
 

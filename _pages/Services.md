@@ -25,7 +25,7 @@ __Reviewer__
   
   *[ACM Transactions on Knowledge Discovery from Data](https://dl.acm.org/journal/tkdd) (TKDD, IF: 4.711)
   
-  *[Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing) (IF: 6)
+  *[Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing) (IF: 6.0)
 
 ======
 __Attending__
